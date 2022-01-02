@@ -1,6 +1,6 @@
 # Start again
 
-### Why C programming is awesome
+#### Why C programming is awesome
 #### Who invented C
 #### What happens when you type gcc main.c
 #### What is an entry point
